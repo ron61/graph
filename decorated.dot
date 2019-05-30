@@ -1,0 +1,16 @@
+digraph decorated {
+   size="6,6";
+   /* Default style of every node is spcified with "node" keyword
+    * e.g. node [style=filled,shape=box];
+    * You can specify the style of a particular node */
+   Node1 [style=filled,shape=box,color="0.7 0.7 1.0"];
+   /* Define a link using "->". */
+   Node1 -> Node2;
+   /* Use "" to specify a node whose name include spaces. */
+   Node1 -> "Node with space";
+   /* We can specify the color of the edge as follows */
+   Node1 -> Red [color=red];
+   Node1 -> Blue [color="0.5 0.9 0.9"];
+   /* We can specify the label of the edge */
+   Node1 -> Labeled [label=LABEL];
+}

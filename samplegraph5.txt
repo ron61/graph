@@ -1,0 +1,17 @@
+http://www.example.org/dummy/
+5
+0 URL0 "a"
+1 URL1 "b"
+2 URL2 "c"
+3 URL3 "d"
+4 URL4 "e"
+9
+0 1
+0 2
+0 3
+1 2
+1 4
+2 0
+2 4
+3 1
+4 1
