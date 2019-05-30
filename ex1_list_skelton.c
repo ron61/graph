@@ -74,12 +74,13 @@ void _dfs(Graph *g, int *flag, int v)
   e = g->edges[v];    // 頂点 v の辺リストの最初の辺を取得
   while(e!=NULL) {          // 辺リストの終了まで
     j = e->to;              // 辺の行き先の頂点
-    // ここで、j への辺があり且つまだ j に訪れていないなら j へ再帰する。
 
-    // ADD SOME CODE HERE
-    if(j != 0 && flag[j] != 1) {
+    // ここで、j への辺があり且つまだ j に訪れていないなら j へ再帰する。
+    if (flag[j] != 1){
       _dfs(g, flag, j);
     }
+    
+    printf("%d->%d;",e->from,e->to);
 
     e = e->next;            // 辺リスト中の次の辺へ
   }
@@ -123,9 +124,11 @@ void bfs(Graph *g, int v)
         j = e->to;             // 辺の行き先の頂点 j について
 
         // j がまだキューに入ったことがないなら、 j をキューへ追加
-        if (flag[j] == 0)
+        if (flag[j] != 1)
         {
-          add_que = 1; // CHANGE HERE
+          add_que = 1;
+        } else {
+          add_que = 0;
         }
         
         if(add_que) {
