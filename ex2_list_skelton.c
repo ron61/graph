@@ -94,7 +94,19 @@ void _dfs1(Graph *g, int *flag, int v, int *stack, int *sp)
   Edge *e;
   flag[v] = 1;
   // 頂点 v の全ての辺に対して、その辺の先に訪れていないなら再帰呼び出し。
-// ADD SOME CODE HERE
+  // ADD SOME CODE HERE
+  
+  e = g->edges[v];    // 頂点 v の辺リストの最初の辺を取得
+  while(e!=NULL) {          // 辺リストの終了まで
+    j = e->to;              // 辺の行き先の頂点
+    // ここで、j への辺があり且つまだ j に訪れていないなら j へ再帰する。
+    if (flag[j] != 1){
+      _dfs1(g, flag, j, stack, sp);
+    }
+    // printf("%d->%d;",e->from,e->to);
+    e = e->next;            // 辺リスト中の次の辺へ
+  }
+
   stack[(*sp)++] = v;  // 探索終了を記録
 }
 
@@ -107,7 +119,18 @@ void _dfs2(Graph *g, int *flag, int v, int *component, int c)
   flag[v] = 1;                 // この頂点に来たことを記録
   component[v] = c;            // この頂点の強連結成分の番号は c
   // 頂点 v の全ての辺に対して、その辺の先に訪れていないなら再帰呼び出し。
-// ADD SOME CODE HERE
+  // ADD SOME CODE HERE
+
+  e = g->edges[v];    // 頂点 v の辺リストの最初の辺を取得
+  while(e!=NULL) {          // 辺リストの終了まで
+    j = e->to;              // 辺の行き先の頂点
+    // ここで、j への辺があり且つまだ j に訪れていないなら j へ再帰する。
+    if (flag[j] != 1){
+      _dfs2(g, flag, j, component, c);
+    }
+    // printf("%d->%d;",e->from,e->to);
+    e = e->next;            // 辺リスト中の次の辺へ
+  }
 }
 
 // 強連結成分分解。component に各頂点の属する強連結成分の番号が入る
@@ -171,7 +194,8 @@ void pagerank(Graph *g, double *rank)
       e = rg->edges[v];          // 頂点 v の辺リストの最初の辺を取得
       while(e!=NULL) {          // 辺リストの終了まで
         // ランク加算
-// ADD SOME CODE HERE
+        // ADD SOME CODE HERE
+        r += rank[e->to]/ls[e->to];
         e = e->next;            // 辺リスト中の次の辺へ
       }
       new_rs[v] = (1-d)/g->n + d * r; // 新しいランク値
