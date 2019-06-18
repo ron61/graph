@@ -39,7 +39,7 @@ import re
 import sys
 
 if len(sys.argv) < 2:
-    print "crawler.py url [limit] [i|d|e]"
+    print("crawler.py url [limit] [i|d|e]")
     exit(0)
 
 url = sys.argv[1]
