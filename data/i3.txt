@@ -1,0 +1,2210 @@
+http://www.alab.t.u-tokyo.ac.jp/
+433
+0 http://www.alab.t.u-tokyo.ac.jp/ "Ando-Nara Laboratory"
+1 http://www.alab.t.u-tokyo.ac.jp/index_e.html "Ando-Nara Laboratory"
+2 http://www.alab.t.u-tokyo.ac.jp/members.html "Ando &amp; Nara Labo's Members"
+3 http://www.alab.t.u-tokyo.ac.jp/location/index.html "Location of Ando-Shinoda Lab"
+4 http://www.alab.t.u-tokyo.ac.jp/services/index.html " Ando Lab's Services "
+5 http://www.alab.t.u-tokyo.ac.jp/album/index.html "Ando Nara Lab's Album "
+6 http://www.i.u-tokyo.ac.jp/edu/course/ipc/index.shtml "Out of domain"
+7 http://www.alab.t.u-tokyo.ac.jp/membersonly/index.html "error 403"
+8 http://www.u-tokyo.ac.jp/ "Out of domain"
+9 http://www.alab.t.u-tokyo.ac.jp/%7Eando/index-j.html "安藤 繁 (東大工計数) ホームページ"
+10 http://www.alab.t.u-tokyo.ac.jp/%7Enara/index-j.htm "奈良高明のページ"
+11 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/ "Assistant Professor (Research Associate) T. Kurihara"
+12 http://www.info.kochi-tech.ac.jp/ "Out of domain"
+13 http://www.alab.t.u-tokyo.ac.jp/%7Eshino/ "Shinoda Lab"
+14 http://www.hapis.k.u-tokyo.ac.jp/ "Out of domain"
+15 http://www.alab.t.u-tokyo.ac.jp/members_e.html "Ando &amp; Nara Labo's Members"
+16 http://www.i.u-tokyo.ac.jp/edu/course/ipc/index_e.shtml "Out of domain"
+17 http://www.alab.t.u-tokyo.ac.jp/%7Eando/index.html "Home Page of Shigeru Ando, Professor"
+18 http://www.alab.t.u-tokyo.ac.jp/%7Enara/index-e.html "error 404"
+19 http://www.alab.t.u-tokyo.ac.jp/%7Eshino/index-e.html "Shinoda Lab"
+20 http://www.nakatsuma.net/ "Out of domain"
+21 http://www.alab.t.u-tokyo.ac.jp/%7Enoda/index.html "野田聡人"
+22 http://www.alab.t.u-tokyo.ac.jp/%7Emonnai/index_j.html "門内　靖明"
+23 http://www.alab.t.u-tokyo.ac.jp/%7Eseichi/index.html "Seichi Sato"
+24 http://www.alab.t.u-tokyo.ac.jp/%7Eyasutoc/ "Yasutoshi Makino"
+25 http://www.alab.t.u-tokyo.ac.jp/%7Estar/index_j.html "星 貴之 (Takayuki Hoshi)"
+26 http://www.alab.t.u-tokyo.ac.jp/%7Eiwa/ "岩本貴之"
+27 http://www.webtools.org/counter/ "Out of domain"
+28 http://www.alab.t.u-tokyo.ac.jp/%7Enara/cv.html "奈良 高明 略歴"
+29 http://www.alab.t.u-tokyo.ac.jp/%7Enara/research.html "奈良　高明 研究テーマ"
+30 http://www.alab.t.u-tokyo.ac.jp/%7Enara/paperlist-j.html "奈良 高明 業績リスト"
+31 http://www.alab.t.u-tokyo.ac.jp/%7Enara/lecture.html "講義"
+32 http://www.alab.t.u-tokyo.ac.jp/%7Enara/thesis.html "修士論文・卒業論文"
+33 http://www.alab.t.u-tokyo.ac.jp/%7Enara/mail.html "奈良 高明 連絡先・アクセス"
+34 http://www.alab.t.u-tokyo.ac.jp/memberonly/memonly.html "error 404"
+35 http://www.t.u-tokyo.ac.jp/epage/public/engpower/departments/mathematical-information-physics/ "Out of domain"
+36 http://www3.imperial.ac.uk/ammp/research/acca/acca-uk-jp%20workshop "Out of domain"
+37 http://iopscience.iop.org/0266-5611/page/Highlights%20of%202011 "Out of domain"
+38 http://www.alab.t.u-tokyo.ac.jp/%7Enara/img/nikkei.pdf "application/pdf"
+39 http://iopscience.iop.org/0266-5611/28/2/025008 "Out of domain"
+40 https://www.jstage.jst.go.jp/article/jsiaml/3/0/3_0_65/_article "Out of domain"
+41 http://iopscience.iop.org/0266-5611/27/10/105001 "Out of domain"
+42 http://link.aip.org/link/?JAP/109/07E305 "Out of domain"
+43 http://www.alab.t.u-tokyo.ac.jp/%7Enara/HEADER "error 404"
+44 http://www.alab.t.u-tokyo.ac.jp/%7Enara/link.html "奈良研究室へようこそ"
+45 http://x8.aikotoba.jp/bin/gg?143106600 "Out of domain"
+46 http://translate.rentalurl.net/ "Out of domain"
+47 http://inkan.rentalurl.net/ "Out of domain"
+48 http://www.alab.t.u-tokyo.ac.jp/%7Enara/img/nara.jpg "image/jpeg"
+49 http://x8.aikotoba.jp/bin/ll?143106600 "Out of domain"
+50 http://www.u-tokyo.ac.jp/index-j.html "Out of domain"
+51 http://www.i.u-tokyo.ac.jp/ "Out of domain"
+52 http://www.i.u-tokyo.ac.jp/ipc/ipc.htm "Out of domain"
+53 http://www.sice.or.jp/ "Out of domain"
+54 http://www.iee.or.jp/ "Out of domain"
+55 http://www.jsap.or.jp/ "Out of domain"
+56 http://www.ieee.org/ "Out of domain"
+57 http://www.alab.t.u-tokyo.ac.jp/%7Eando/CISj.htm "Topic: Correlation Image Sensor and Lock-in Camera (in Japanese)"
+58 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/projects.html "$B8&5f%F!"
+59 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/nc.html "NC$B1i=,;qNA=8(B"
+60 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/shmem.html "$B6&M-%a%b%j$r;H$*$&(B"
+61 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/cuda.html "CUDA 4.2 for Visual Studio 2005"
+62 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/OpenCV2.3.html "OpenCV2.3"
+63 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/fftw3-3.html "How to use FFTW3.3 under Visual Studio 2010"
+64 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/fftw3.html "How to use FFTW3"
+65 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/clapack.html "How to use CLAPACK"
+66 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/VariableList.html "$B2DJQ0z?t%j%9%H$rMQ$$$?%W%m%0%i%_%s%0(B"
+67 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/complex.html "Complex Value of GCC on CYGWIN"
+68 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/rs232c.html "How to use RS-232C"
+69 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/Arduino-I2C.pdf "application/pdf"
+70 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/Nabe_tutorial_v6.pdf "application/pdf"
+71 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/nabe_parabola.pas "error 404"
+72 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/Nabe_tutorial_v1.pdf "application/pdf"
+73 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/Nabe_tutorial_v2.pdf "application/pdf"
+74 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/Nabe_tutorial_v5.pdf "application/pdf"
+75 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/vc-tips.shtml "VC tips"
+76 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/lib.html "MY LIBRARY"
+77 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/android-tips.html "Android tips"
+78 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/SuperIR.html "Hyper Remote Controller"
+79 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/roomba.html "Roomba Controller"
+80 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/lc4500ctrl.html "Light Crafter4500"
+81 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/SL_2012_Hough.pdf "application/pdf"
+82 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/SL_2011_etalons.pdf "application/pdf"
+83 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/SL_2011_GaussianBeam.pdf "application/pdf"
+84 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/SL_2010_Fresnel_rev2.pdf "application/pdf"
+85 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/SL_2010_GaussBeam.pdf "application/pdf"
+86 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/SL_2010_Hologram.pdf "application/pdf"
+87 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/SL_2009_wiener.pdf "application/pdf"
+88 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/SL_2008_PLL.pdf "application/pdf"
+89 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/SL_2007_Bezier.pdf "application/pdf"
+90 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/SL_2007_LPM.pdf "application/pdf"
+91 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/SL_2006_BHologram.pdf "application/pdf"
+92 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/SL_2005_clapack.pdf "application/pdf"
+93 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/sice2012-abstract.tex "application/x-tex"
+94 http://www.hapis.k.u-tokyo.ac.jp/public/hiroyuki_shinoda/ "Out of domain"
+95 http://www.hapis.k.u-tokyo.ac.jp/public/hiroyuki_shinoda/index-e.html "Out of domain"
+96 http://www.alab.t.u-tokyo.ac.jp/%7Enoda/style.css "text/css"
+97 http://www.alab.t.u-tokyo.ac.jp/%7Emonnai/index.html "Yasuaki Monnai"
+98 http://www.alab.t.u-tokyo.ac.jp/%7Emonnai/index_d.html "Yasuaki Monnai"
+99 http://www.k2.t.u-tokyo.ac.jp/index-j.html "Out of domain"
+100 http://www.nikkei.com/article/DGKDZO53205700V20C13A3TJM000/ "Out of domain"
+101 http://www.dwih-tokyo.jp/home/news/article/article/2013/02/07/electric-focusing-and-steering-of-thz-beams-collaboration-of-the-university-of-marburg-and-of-t/ "Out of domain"
+102 http://www.uni-marburg.de/aktuelles/news/2013a/0128a "Out of domain"
+103 http://www.alab.t.u-tokyo.ac.jp/%7Emonnai/Forschung%20fur%20eine%20Zukunft%20ohne%20Elektrosmog%20Kopie.jpg "error 404"
+104 http://www.alab.t.u-tokyo.ac.jp/%7Emonnai/Presse_HNA_ZukunftohneElektrosmog_22-11-2010_KLEIN.jpg "image/jpeg"
+105 http://www.uni-kassel.de/uni/universitaet/uni-nachrichtenportal/nachrichten/article/forschung-fuer-eine-zukunft-ohne-elektrosmog-und-kabelgewirr.html "Out of domain"
+106 http://www.alab.t.u-tokyo.ac.jp/%7Eseichi/index-j.html "Seichi Sato"
+107 http://www.alab.t.u-tokyo.ac.jp/%7Eseichi/movie/cis_vibrometry.mpg "video/mpeg"
+108 http://www.alab.t.u-tokyo.ac.jp/%7Eseichi/pdf/sato_2009_SPIEOP.pdf "application/pdf"
+109 http://www.alab.t.u-tokyo.ac.jp/%7Eseichi/pdf/sato_2009_SPIEOM.pdf "application/pdf"
+110 http://www.alab.t.u-tokyo.ac.jp/%7Eseichi/pdf/sato_2008_SPIEOP.pdf "application/pdf"
+111 http://www.alab.t.u-tokyo.ac.jp/%7Eseichi/pdf/sato_2008_SPIEPW.pdf "application/pdf"
+112 http://www.alab.t.u-tokyo.ac.jp/%7Eseichi/pdf/sato_2007_SensorSympo.pdf "application/pdf"
+113 http://www.alab.t.u-tokyo.ac.jp/%7Eseichi/pdf/sato_2006_ODF.pdf "application/pdf"
+114 http://www.alab.t.u-tokyo.ac.jp/%7Eseichi/pdf/sato_2006_SensorSympo.pdf "application/pdf"
+115 http://www.alab.t.u-tokyo.ac.jp/%7Eseichi/photo_cedar.jpg "image/jpeg"
+116 http://www.alab.t.u-tokyo.ac.jp/%7Eyasutoc/e-index.htm "Yasutoshi Makino"
+117 http://lab.sdm.keio.ac.jp/maenolab/makino/ "Out of domain"
+118 http://www.alab.t.u-tokyo.ac.jp/%7Eyasutoc/documents/20081021_Elastic.pdf "application/pdf"
+119 http://www.alab.t.u-tokyo.ac.jp/%7Eyasutoc/documents/20080513_t-test.pdf "application/pdf"
+120 http://www.alab.t.u-tokyo.ac.jp/%7Eyasutoc/documents/20071211_CharacteristicImpedance.pdf "application/pdf"
+121 http://www.alab.t.u-tokyo.ac.jp/%7Eyasutoc/documents/20071030_tandel.pdf "application/pdf"
+122 http://www.alab.t.u-tokyo.ac.jp/%7Eyasutoc/documents/20070710_Qfactor.pdf "application/pdf"
+123 http://www.alab.t.u-tokyo.ac.jp/%7Eyasutoc/documents/20070515_Maxwell.pdf "application/pdf"
+124 http://www.alab.t.u-tokyo.ac.jp/%7Eyasutoc/documents/20060718_Sound.pdf "application/pdf"
+125 http://www.alab.t.u-tokyo.ac.jp/%7Eyasutoc/documents/20060124_Noise_InstAmp.pdf "application/pdf"
+126 http://www.alab.t.u-tokyo.ac.jp/%7Eyasutoc/documents/20050526_HighFrequency.pdf "application/pdf"
+127 http://www.alab.t.u-tokyo.ac.jp/%7Eyasutoc/reserch.htm "Suction Pressure Stimulation"
+128 http://www.alab.t.u-tokyo.ac.jp/%7Eyasutoc/documents/2DC.pdf "application/pdf"
+129 http://jp.youtube.com/watch?v%3DEJTBVzxQFSA "Out of domain"
+130 http://www.alab.t.u-tokyo.ac.jp/%7Eyasutoc/movies/i-tokyo.wmv "video/x-ms-wmv"
+131 http://www.alab.t.u-tokyo.ac.jp/%7Eshino/2Dcom/2DST.html "Two-dimensional transmission (communication) technology"
+132 http://www.alab.t.u-tokyo.ac.jp/%7Esiggraph/08/2DC/SIGGRAPH08-2DC.html "Two-Dimensional Communication"
+133 http://www.alab.t.u-tokyo.ac.jp/%7Eyasutoc/papers/D_thesis.pdf "application/pdf"
+134 http://www.alab.t.u-tokyo.ac.jp/%7Eyasutoc/papers/shuron.pdf "application/pdf"
+135 http://www.alab.t.u-tokyo.ac.jp/%7Eyasutoc/papers/sotsuron.pdf "application/pdf"
+136 http://www.alab.t.u-tokyo.ac.jp/%7Eyasutoc/papers/06_TVRS_makino.pdf "application/pdf"
+137 http://www.alab.t.u-tokyo.ac.jp/%7Eyasutoc/papers/05Sympo_Makino.pdf "application/pdf"
+138 http://www.alab.t.u-tokyo.ac.jp/%7Eyasutoc/papers/05_WH_162_Paper.pdf "application/pdf"
+139 http://www.alab.t.u-tokyo.ac.jp/%7Eyasutoc/papers/04_Haptic_Sympo_makino.pdf "application/pdf"
+140 http://www.alab.t.u-tokyo.ac.jp/%7Eyasutoc/papers/02_SICE_Makino.pdf "application/pdf"
+141 http://www.alab.t.u-tokyo.ac.jp/%7Eyasutoc/papers/07_SensingForum.pdf "application/pdf"
+142 http://www.alab.t.u-tokyo.ac.jp/%7Eyasutoc/papers/poster.pdf "application/pdf"
+143 http://www.alab.t.u-tokyo.ac.jp/%7Eyasutoc/papers/06_famitsu.pdf "application/pdf"
+144 http://www.alab.t.u-tokyo.ac.jp/%7Estar/index.html "Takayuki Hoshi"
+145 http://star.web.nitech.ac.jp/index_j.html "Out of domain"
+146 http://www.i.u-tokyo.ac.jp/edu/course/ipc/ "Out of domain"
+147 http://www.sice.or.jp/%7Ekyushu/ "Out of domain"
+148 http://www.fractal.is.tohoku.ac.jp/haptics/ja/index.php "Out of domain"
+149 http://www.alab.t.u-tokyo.ac.jp/%7Estar/skin/nonlinear/nonlinear_j.html "非線形触覚素子"
+150 http://www.computer.org/portal/c/document_library/get_file?uuid%3D9d138ea0-a967-4e1c-b6c3-dd8d3aab53b4%26groupId%3D673429 "Out of domain"
+151 http://www.alab.t.u-tokyo.ac.jp/%7Estar/pdf/2010SICE.pdf "application/pdf"
+152 http://www.alab.t.u-tokyo.ac.jp/%7Estar/pdf/2007WHC.pdf "application/pdf"
+153 http://www.alab.t.u-tokyo.ac.jp/%7Estar/pdf/2006Sensors.pdf "application/pdf"
+154 http://www.alab.t.u-tokyo.ac.jp/%7Estar/pdf/2010SICE-SI.pdf "application/pdf"
+155 http://www.alab.t.u-tokyo.ac.jp/%7Estar/pdf/2010SICE-Q_star.pdf "application/pdf"
+156 http://www.alab.t.u-tokyo.ac.jp/%7Estar/pdf/2010SICE-Q_hashimoto.pdf "application/pdf"
+157 http://www.alab.t.u-tokyo.ac.jp/%7Estar/pdf/2010SICE-Q_nishiyama.pdf "application/pdf"
+158 http://www.alab.t.u-tokyo.ac.jp/%7Estar/pdf/2010SICE-Q_ogawa.pdf "application/pdf"
+159 http://www.alab.t.u-tokyo.ac.jp/%7Estar/pdf/2010SICE-Q_watanabe.pdf "application/pdf"
+160 http://www.alab.t.u-tokyo.ac.jp/%7Estar/pdf/2007SICE-SI.pdf "application/pdf"
+161 http://www.alab.t.u-tokyo.ac.jp/%7Estar/pdf/2007Robomec.pdf "application/pdf"
+162 http://www.alab.t.u-tokyo.ac.jp/%7Estar/pdf/2006SICE-SI_3DCS.pdf "application/pdf"
+163 http://www.alab.t.u-tokyo.ac.jp/%7Estar/pdf/2006SICE-SI_hifu.pdf "application/pdf"
+164 http://www.vrsj.org/%7Evrsjoffice/archives/announce/msg00581.html "Out of domain"
+165 http://www.alab.t.u-tokyo.ac.jp/%7Estar/pdf/D-thesis_star.pdf "application/pdf"
+166 http://www.i.u-tokyo.ac.jp/edu/course/ipc/master/2004/3/star.shtml "Out of domain"
+167 http://members.at.infoseek.co.jp/starlighting/outdex/outdex.html "Out of domain"
+168 http://www.alab.t.u-tokyo.ac.jp/%7Estar/photo.jpg "image/jpeg"
+169 http://www.alab.t.u-tokyo.ac.jp/%7Eiwa/pdf/2DUltrasoundTactileDisplay.pdf "application/pdf"
+170 http://www.alab.t.u-tokyo.ac.jp/%7Eiwa/mov/2Dmovie.mpg "video/mpeg"
+171 http://www.isfh.org/ "Out of domain"
+172 http://www.isfh.org/forthcoming.htm "Out of domain"
+173 http://www.alab.t.u-tokyo.ac.jp/%7Eiwa/ISFH/isfh.html ""
+174 http://jstshingi.jp/ "Out of domain"
+175 http://www.alab.t.u-tokyo.ac.jp/%7Enara/img/RFIDtag2Dlocalization.wmv "video/x-ms-wmv"
+176 http://www.alab.t.u-tokyo.ac.jp/%7Enara/img/RFIDtesttube.wmv "video/x-ms-wmv"
+177 http://www.alab.t.u-tokyo.ac.jp/%7Enara/img/MEG1.jpg "image/jpeg"
+178 http://www.alab.t.u-tokyo.ac.jp/%7Enara/img/MEG2.jpg "image/jpeg"
+179 http://www.alab.t.u-tokyo.ac.jp/%7Enara/img/MEG3.jpg "image/jpeg"
+180 http://www.alab.t.u-tokyo.ac.jp/%7Enara/img/MEG4.jpg "image/jpeg"
+181 http://www.alab.t.u-tokyo.ac.jp/%7Enara/img/FourierCoilPic.jpg "image/jpeg"
+182 http://www.alab.t.u-tokyo.ac.jp/%7Enara/img/setup.jpg "image/jpeg"
+183 http://www.alab.t.u-tokyo.ac.jp/%7Enara/img/RFIDtag2Dlocalization.jpg "image/jpeg"
+184 http://www.alab.t.u-tokyo.ac.jp/%7Enara/img/RFIDtesttube.jpg "image/jpeg"
+185 http://www.alab.t.u-tokyo.ac.jp/%7Enara/img/SAWTDwithfinger.jpg "image/jpeg"
+186 http://www.alab.t.u-tokyo.ac.jp/%7Enara/lecture/first_seminar.htm "error 404"
+187 http://www.keisu.t.u-tokyo.ac.jp/research/thesis_ipc/2006/50509.html "Out of domain"
+188 http://www.keisu.t.u-tokyo.ac.jp/research/thesis_ipc/2005/2200506.html "Out of domain"
+189 http://www.uec.ac.jp/ "Out of domain"
+190 http://www.alab.t.u-tokyo.ac.jp/%7Eando/image/2pmos.jpg "image/jpeg"
+191 http://www.alab.t.u-tokyo.ac.jp/%7Eando/image/motlyout.jpg "image/jpeg"
+192 http://www.alab.t.u-tokyo.ac.jp/%7Eando/image/3pmos.jpg "image/jpeg"
+193 http://www.alab.t.u-tokyo.ac.jp/%7Eando/image/mot01_2d.jpg "image/jpeg"
+194 http://www.alab.t.u-tokyo.ac.jp/%7Eando/image/ciscam1q.jpg "image/jpeg"
+195 http://www.alab.t.u-tokyo.ac.jp/%7Eando/image/ciscam3q.jpg "image/jpeg"
+196 http://www.alab.t.u-tokyo.ac.jp/%7Eando/image/HCI2.jpg "image/jpeg"
+197 http://www.alab.t.u-tokyo.ac.jp/%7Eando/image/DCI1.jpg "image/jpeg"
+198 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/index.shtml "error 404"
+199 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/image/nv-face.wmv "video/x-ms-wmv"
+200 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/image/6axis-CapturedBeam.jpg "image/jpeg"
+201 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/image/6axis-zero-detect.jpg "image/jpeg"
+202 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/image/6axis-OpticalSystemPhoto.jpg "image/jpeg"
+203 http://www.keisu.t.u-tokyo.ac.jp/nc/ "Out of domain"
+204 http://www.nabetech.com/ntcad/download.html "Out of domain"
+205 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/NC_manual.pdf "application/pdf"
+206 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/Nabe_tutorial_v7.pdf "application/pdf"
+207 http://www.nabetech.com/ntcad/library/NTCAD7tutorial.pdf "Out of domain"
+208 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/dl/ShMem_v1.zip "application/zip"
+209 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/index.shtml "error 404"
+210 https://developer.nvidia.com/cuda-toolkit-42-archive "Out of domain"
+211 http://www.nvidia.com/content/cuda/cuda-downloads.html "Out of domain"
+212 http://sourceforge.net/projects/opencvlibrary/files/opencv-win/2.3/ "Out of domain"
+213 http://cmake.org/cmake/resources/software.html "Out of domain"
+214 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/OpenCV2.3.0-build.zip "application/zip"
+215 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/CVCapture_cv2p3_sample.zip "application/zip"
+216 http://imagingsolution.net/program/opencv/opencv2-3/opencv2-3-downlaod-install/ "Out of domain"
+217 https://www.fftw.org/ "Out of domain"
+218 http://www.fftw.org/install/windows.html "Out of domain"
+219 ftp://ftp.fftw.org/pub/fftw/fftw-3.3-dll64.zip "Out of domain"
+220 http://www.fftw.org/download.html "Out of domain"
+221 http://www.fftw.org/fftw-3.3.3.tar.gz "Out of domain"
+222 http://www7a.biglobe.ne.jp/%7Eschezo/ "Out of domain"
+223 ftp://ftp.fftw.org/pub/fftw/fftw-3.3-libs-visual-studio-2010.zip "Out of domain"
+224 http://www.fftw.org/ "Out of domain"
+225 http://www.sip.eee.yamaguchi-u.ac.jp/kou/fftw.html "Out of domain"
+226 http://www.fftw.org/doc/Complex-numbers.html "Out of domain"
+227 http://www.netlib.org/clapack/ "Out of domain"
+228 http://www.a.mei.titech.ac.jp/%7Ekabe/calcsoft/library/lapack/clapack/usage/dgesvd/ "Out of domain"
+229 http://www.a.mei.titech.ac.jp/%7Ekabe/calcsoft/library/lapack/clapack/usage/dgetri/ "Out of domain"
+230 http://www.sip.eee.yamaguchi-u.ac.jp/kou/lapack.html "Out of domain"
+231 http://www-cms.phys.s.u-tokyo.ac.jp/%7Enaoki/CIPINTRO/LAPACK/ "Out of domain"
+232 http://stat.scphys.kyoto-u.ac.jp/%7Eryoichi/CP/chap4-5.html "Out of domain"
+233 http://www.a.mei.titech.ac.jp/%7Eyonishi/Program/CLapack/index.html "Out of domain"
+234 http://black.sakura.ne.jp/%7Ethird/programming/c/c62.html "Out of domain"
+235 http://www.linux.or.jp/JM/html/LDP_man-pages/man3/stdarg.3.html "Out of domain"
+236 http://www.microsoft.com/japan/msdn/library/default.asp?url%3D/japan/msdn/library/ja/vclib/html/_crt_va_arg.2c_.va_end.2c_.va_start.asp "Out of domain"
+237 http://www.cygwin.com/ "Out of domain"
+238 http://gcc.gnu.org/index.html "Out of domain"
+239 http://seclan.dll.jp/c99d/c99d00.htm "Out of domain"
+240 http://gcc.gnu.org/gcc-3.4/c99status.html "Out of domain"
+241 http://gcc.gnu.org/onlinedocs/gcc-3.4.1/gcc/Other-Builtins.html "Out of domain"
+242 http://www.sra.co.jp/wingnut/gcc/gcc-j.html "Out of domain"
+243 http://www.cqpub.co.jp/interface/column/freesoft/2003/200305/1.htm "Out of domain"
+244 http://gcc.gnu.org/onlinedocs/gcc-3.4.3/gcc/ "Out of domain"
+245 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/rs232c.pdf "application/pdf"
+246 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/SerialComTest.zip "application/zip"
+247 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/Lib/CImgWnd2.h "text/plain"
+248 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/Lib/CImgWndLib.lib "text/plain"
+249 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/Lib/CImgWndLibd.lib "text/plain"
+250 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/Lib/CImgDlg.zip "error 404"
+251 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/Lib/CImgDlg.h "text/plain"
+252 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/Lib/CImgDlgRes.h "text/plain"
+253 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/Lib/CImgDlgLib.rc "text/plain"
+254 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/Lib/CImgDlgLib_r.lib "text/plain"
+255 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/Lib/CImgDlgLib_d.lib "text/plain"
+256 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/Draw3D.pdf "application/pdf"
+257 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/Draw3D.zip "application/zip"
+258 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/Lib/CWinSock.h "text/plain"
+259 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/Lib/CWinSock.cpp "text/plain"
+260 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/Lib/RS232C_CTL_s.h "text/plain"
+261 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/Lib/RS232C_CTL_s.cpp "text/plain"
+262 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/Lib/Img2Avi.exe "application/octet-stream"
+263 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/shmem.zip "error 404"
+264 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/Lib/C2DFFT.H "text/plain"
+265 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/Lib/C2DFFT.CPP "text/plain"
+266 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/Lib/Lib_IDC.jpg "image/jpeg"
+267 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/Lib/Lib_Img.jpg "image/jpeg"
+268 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/Lib/CImgDlgLib.jpg "image/jpeg"
+269 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/omen3.jpg "image/jpeg"
+270 http://developer.android.com/index.html "Out of domain"
+271 http://d.hatena.ne.jp/bs-android/20090203/1233675390 "Out of domain"
+272 http://d.hatena.ne.jp/shokai/20100602/1275499332 "Out of domain"
+273 http://www.youtube.com/watch?v%3DYmuQ_ChKnXM%26feature%3Dfeedu "Out of domain"
+274 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/image/IrCase.jpg "image/jpeg"
+275 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/image/IrSchema.jpg "image/jpeg"
+276 http://d.hatena.ne.jp/NeoCat/20090419/1240158722 "Out of domain"
+277 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/image/server_display.jpg "image/jpeg"
+278 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/image/PopClient.jpg "image/jpeg"
+279 https://www.sparkfun.com/products/10980 "Out of domain"
+280 http://www.amazon.com/gp/product/B007R9ULB0/ref%3Das_li_ss_tl?ie%3DUTF8%26tag%3Dwwwrobotapcom-20%26linkCode%3Das2%26camp%3D1789%26creative%3D390957%26creativeASIN%3DB007R9ULB0 "Out of domain"
+281 http://www.robotappstore.com/Knowledge-Base/1-Introduction-to-Roomba-Programming/15.html "Out of domain"
+282 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/image/rc-view.jpg "image/jpeg"
+283 http://www.tij.co.jp/lsds/ti_ja/analog/dlp/lightcrafter4500.page "Out of domain"
+284 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/dl/lc4500ctrl.zip "application/zip"
+285 http://www.alab.t.u-tokyo.ac.jp/%7Ebond/doc/image/lc4500ctrl.jpg "image/jpeg"
+286 http://www.i.u-tokyo.ac.jp/edu/course/ipc/master/2006/3/sato.shtml "Out of domain"
+287 http://www.alab.t.u-tokyo.ac.jp/%7Eseichi/movie/fishbone.m1v "video/mpeg"
+288 http://www.alab.t.u-tokyo.ac.jp/%7Eseichi/fish_22.9Hz_center2.bmp "image/bmp"
+289 http://www.alab.t.u-tokyo.ac.jp/%7Eseichi/phase.png "image/png"
+290 http://www.alab.t.u-tokyo.ac.jp/%7Eyasutoc/index.htm "Yasutoshi Makino"
+291 http://jp.youtube.com/watch?v%3DgJQN1oJZHaU "Out of domain"
+292 http://www.alab.t.u-tokyo.ac.jp/%7Eshino/2Dcom/ceatec2012_demo.html "Two-dimensional transmission (communication) technology"
+293 http://ieeexplore.ieee.org/stamp/stamp.jsp?tp%3D%26arnumber%3D5875914 "Out of domain"
+294 http://www.alab.t.u-tokyo.ac.jp/%7Eshino/2Dcom/2D_com.pdf "application/pdf"
+295 https://www.jstage.jst.go.jp/article/sicejl1962/46/2/46_2_98/_pdf "Out of domain"
+296 http://www.alab.t.u-tokyo.ac.jp/%7Eshino/research/pdf/06SICE/06_SICE_yamahira.pdf "application/pdf"
+297 http://www.alab.t.u-tokyo.ac.jp/%7Eshino/2Dcom/2D_com.wmv "video/x-ms-wmv"
+298 http://www.alab.t.u-tokyo.ac.jp/%7Eshino/2Dcom/Demo.wmv "video/x-ms-wmv"
+299 http://www.alab.t.u-tokyo.ac.jp/%7Eshino/2Dcom/2Dcom_skin.pdf "application/pdf"
+300 http://www.alab.t.u-tokyo.ac.jp/%7Eshino/2Dcom/2Dcom_skin.wmv "video/x-ms-wmv"
+301 http://www.alab.t.u-tokyo.ac.jp/%7Esiggraph/ "Shinoda Lab at SIGGRAPH"
+302 http://www.alab.t.u-tokyo.ac.jp/%7Esiggraph/08/Tactile/SIGGRAPH08-Tactile.html "Airborne Ultrasound Tactile Display"
+303 http://www.youtube.com/watch?v%3DgJQN1oJZHaU "Out of domain"
+304 http://www.siggraph.org/s2008/attendees/newtech/44.php "Out of domain"
+305 http://www.alab.t.u-tokyo.ac.jp/%7Esiggraph/08/2DC/SIGGRAPH08-2DC-abst.pdf "application/pdf"
+306 http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber%3D4297420 "Out of domain"
+307 http://meip6sb.alab.t.u-tokyo.ac.jp/%7Eshino/publications.html "Out of domain"
+308 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/publications.html "error 404"
+309 http://www.siggraph.org/s2008 "Out of domain"
+310 http://www.siggraph.org/s2008/attendees/newtech/ "Out of domain"
+311 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/ "Kei Nakatsuma  "
+312 http://meip6sb.alab.t.u-tokyo.ac.jp/%7Eshino/index-e.html "Out of domain"
+313 http://validator.w3.org/check?uri%3Dreferer "Out of domain"
+314 http://jigsaw.w3.org/css-validator/check/referer "Out of domain"
+315 http://smallpark.org/ "Out of domain"
+316 http://www.youtube.com/v/gJQN1oJZHaU%26hl%3Den%26fs%3D1 "Out of domain"
+317 http://star.web.nitech.ac.jp/ "Out of domain"
+318 http://www.u-tokyo.ac.jp/index_e.html "Out of domain"
+319 http://www.alab.t.u-tokyo.ac.jp/%7Estar/skin/nonlinear/nonlinear.html "Nonlinear Tactile Element"
+320 http://www.alab.t.u-tokyo.ac.jp/%7Estar/skin/nonlinear/concept_j.html "新しい触覚センシング ～鋭さ検出～"
+321 http://www.alab.t.u-tokyo.ac.jp/%7Estar/skin/nonlinear/principle_j.html "素子構造と計測原理"
+322 http://www.alab.t.u-tokyo.ac.jp/%7Estar/skin/nonlinear/movie/experiment.mpg "video/mpeg"
+323 http://www.alab.t.u-tokyo.ac.jp/%7Estar/skin/nonlinear/fig/robot.jpg "image/jpeg"
+324 http://www.alab.t.u-tokyo.ac.jp/%7Estar/skin/nonlinear/fig/element.jpg "image/jpeg"
+325 http://www.alab.t.u-tokyo.ac.jp/%7Estar/skin/nonlinear/fig/experiment.jpg "image/jpeg"
+326 http://www.alab.t.u-tokyo.ac.jp/%7Estar/skin/nonlinear/fig/stimulator.jpg "image/jpeg"
+327 http://www.alab.t.u-tokyo.ac.jp/%7Eiwa/ISFH/ISFHlecture2005iwamoto.pdf "application/pdf"
+328 http://www.alab.t.u-tokyo.ac.jp/%7Eiwa/ISFH/movies.zip "application/zip"
+329 http://www.alab.t.u-tokyo.ac.jp/%7Eiwa/ISFH/ISFH.mp3 "audio/mpeg"
+330 http://www.alab.t.u-tokyo.ac.jp/%7Eshino/2Dcom/Ceatec2012a.JPG "image/jpeg"
+331 http://www.alab.t.u-tokyo.ac.jp/%7Esiggraph/08/SIGGRAPH2008.html "Shinoda Lab at SIGGRAPH 2008"
+332 http://www.alab.t.u-tokyo.ac.jp/%7Esiggraph/09/TouchableHolography/SIGGRAPH09-TH.html "Touchable Holography"
+333 http://www.siggraph.org/s2009/galleries_experiences/emerging_technologies/ "Out of domain"
+334 http://www.i.u-tokyo.ac.jp/index_e.shtml "Out of domain"
+335 http://www.youtube.com/watch?v%3DhSf2-jm0SsQ "Out of domain"
+336 http://www.siggraph.org/s2008/attendees/newtech/9.php "Out of domain"
+337 http://www.alab.t.u-tokyo.ac.jp/%7Esiggraph/08/Tactile/SIGGRAPH08_abst.pdf "application/pdf"
+338 http://www.alab.t.u-tokyo.ac.jp/%7Esiggraph/08/Tactile/SIGGRAPH08_supp.pdf "application/pdf"
+339 http://www.alab.t.u-tokyo.ac.jp/%7Esiggraph/08/Tactile/EuroHaptics08.pdf "application/pdf"
+340 http://news.bbc.co.uk/1/hi/technology/7593444.stm "Out of domain"
+341 http://www.alab.t.u-tokyo.ac.jp/%7Estar/ "Takayuki Hoshi"
+342 http://www.youtube.com/v/hSf2-jm0SsQ%26hl%3Dja "Out of domain"
+343 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/profile/ "Kei Nakatsuma   &raquo; Profile"
+344 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/research/ "Kei Nakatsuma   &raquo; Research"
+345 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/publications/ "Kei Nakatsuma   &raquo; Publications"
+346 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/feed/ "text/xml"
+347 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/comments/feed/ "error 404"
+348 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/2012/03/28/page_mov/ "Kei Nakatsuma  &raquo; Blog Archive   &raquo; The page has moved to http://www.nakatsuma.net/"
+349 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/author/tsuma/ "Kei Nakatsuma   &raquo; tsuma"
+350 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/category/uncategorized/ "Kei Nakatsuma   &raquo; Uncategorized"
+351 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/2012/01/26/sice-jounal-paper/ "Kei Nakatsuma  &raquo; Blog Archive   &raquo; SICE Jounal Paper (vol. 47, no. 12)"
+352 http://www.alab.t.u-tokyo.ac.jp/%7Eshinolab/projects/positiondetectionin2dcommunication/ "error 500"
+353 http://dl.acm.org/citation.cfm?id%3D1753326.1753673%26amp%3Bcoll%3DGUIDE%26amp%3Bdl%3DACM%26amp%3Btype%3Dseries%26amp%3Bidx%3DSERIES260%26amp%3Bpart%3Dseries%26amp%3BWantType%3DProceedings%26amp%3Btitle%3DCHI "Out of domain"
+354 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/PDF/Nakatsuma_CHI2010.pdf "application/pdf"
+355 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/2011/11/29/sice-si-2011-12%E6%9C%8823-25%E6%97%A5-%E4%BA%AC%E9%83%BD/ "Kei Nakatsuma  &raquo; Blog Archive   &raquo; [Japanese Article] SICE SI 2011 (12譛�23-25譌･, 莠ｬ驛ｽ) "
+356 https://ssl.si-sice.org/si2011/index.html "Out of domain"
+357 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/category/conferences/ "Kei Nakatsuma   &raquo; Conferences"
+358 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/2011/06/30/siggraph-2011-emerging-technologies-demo/ "Kei Nakatsuma  &raquo; Blog Archive   &raquo; SIGGRAPH 2011 Emerging Technologies Demo"
+359 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/www.siggraph.org/s2011/ "error 404"
+360 http://www.siggraph.org/s2011/for_attendees/emerging-technologies "Out of domain"
+361 http://www.alab.t.u-tokyo.ac.jp/%7Eshinolab/projects/touchinterfaceonbackofhand/ "error 500"
+362 http://www.youtube.com/watch?v%3DtKNLxh9Yw2M "Out of domain"
+363 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/2011/06/23/demo-handouts-in-ieee-whc-2011/ "Kei Nakatsuma  &raquo; Blog Archive   &raquo; Demo Handouts in IEEE WHC 2011"
+364 http://www.haptics2011.org/en/ "Out of domain"
+365 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/PDF/WHC2011HandOutWearable.pdf "application/pdf"
+366 http://www.alab.t.u-tokyo.ac.jp/../../PDF/WHC2011HandOutWearable.pdf "error 400"
+367 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/PDF/WHC2011HandOutWristband.pdf "application/pdf"
+368 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/2011/06/15/poster-in-inss-2011/ "Kei Nakatsuma  &raquo; Blog Archive   &raquo; Poster in INSS 2011"
+369 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/PDF/NakatsumaINSS2011PosterSmall.pdf "application/pdf"
+370 http://www.inss-conf.org/2011/ "Out of domain"
+371 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/2011/05/20/world-haptics-2011-istanbul-turkey/ "Kei Nakatsuma  &raquo; Blog Archive   &raquo; World Haptics 2011 (Istanbul, Turkey)"
+372 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/2011/05/20/inss-2011-in-penghu-taiwan/ "Kei Nakatsuma  &raquo; Blog Archive   &raquo; INSS 2011 in Penghu, Taiwan"
+373 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/2011/05/19/%E7%A0%94%E7%A9%B6%E5%AE%A4%E5%85%AC%E9%96%8B/ "Kei Nakatsuma  &raquo; Blog Archive   &raquo; [Japanese Article] 遐皮ｩｶ螳､蜈ｬ髢�"
+374 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/2011/05/19/robomec-2011/ "Kei Nakatsuma  &raquo; Blog Archive   &raquo; Robomec 2011"
+375 http://www.jsme.or.jp/rmd/robomec2011/index.html "Out of domain"
+376 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/profile/profile-jp/ "Kei Nakatsuma   &raquo; Profile jp"
+377 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/research/research-jp/ "Kei Nakatsuma   &raquo; Research jp"
+378 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/publications/publications-jp/ "Kei Nakatsuma   &raquo; Publications jp"
+379 http://www.alab.t.u-tokyo.ac.jp/%7Eshinolab/ "Shinoda Lab"
+380 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/2012/03/ "Kei Nakatsuma   &raquo; 2012 &raquo; March"
+381 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/2012/01/ "Kei Nakatsuma   &raquo; 2012 &raquo; January"
+382 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/2011/11/ "Kei Nakatsuma   &raquo; 2011 &raquo; November"
+383 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/2011/06/ "Kei Nakatsuma   &raquo; 2011 &raquo; June"
+384 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/2011/05/ "Kei Nakatsuma   &raquo; 2011 &raquo; May"
+385 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/wordpress/wordpress/wp-login.php "Kei Nakatsuma &rsaquo; Log In"
+386 http://wordpress.org/ "Out of domain"
+387 http://wpthemes.info/misty-look/ "Out of domain"
+388 http://wprocks.com/ "Out of domain"
+389 http://www.alab.t.u-tokyo.ac.jp/%7Estar/skin/nonlinear/concept.html "Novel Tactile Sensing -- Sharpness Detection --"
+390 http://www.alab.t.u-tokyo.ac.jp/%7Estar/skin/nonlinear/principle.html "Structure and Sensing Theory"
+391 http://www.alab.t.u-tokyo.ac.jp/%7Estar/skin/nonlinear/fig/sharpness.jpg "image/jpeg"
+392 http://www.alab.t.u-tokyo.ac.jp/%7Estar/skin/nonlinear/fig/structure.jpg "image/jpeg"
+393 http://www.alab.t.u-tokyo.ac.jp/%7Estar/skin/nonlinear/fig/cap.jpg "image/jpeg"
+394 http://www.alab.t.u-tokyo.ac.jp/%7Estar/skin/nonlinear/fig/stress.jpg "image/jpeg"
+395 http://www.alab.t.u-tokyo.ac.jp/%7Estar/skin/nonlinear/fig/stress_eq.jpg "image/jpeg"
+396 http://www.alab.t.u-tokyo.ac.jp/%7Estar/skin/nonlinear/fig/lambda.jpg "image/jpeg"
+397 http://www.alab.t.u-tokyo.ac.jp/%7Estar/skin/nonlinear/fig/entropy.jpg "image/jpeg"
+398 http://www.alab.t.u-tokyo.ac.jp/%7Estar/skin/nonlinear/fig/simulation.jpg "image/jpeg"
+399 http://www.siggraph.org/s2008/attendees/posters/ "Out of domain"
+400 http://www.siggraph.org/s2008/attendees/posters/6.php "Out of domain"
+401 http://www.youtube.com/watch?v%3DY-P1zZAcPuw "Out of domain"
+402 http://www.siggraph.org/s2009/galleries_experiences/emerging_technologies/details/?type%3Detech%26id%3D154 "Out of domain"
+403 http://www.alab.t.u-tokyo.ac.jp/%7Esiggraph/09/TouchableHolography/SIGGRAPH09TouchableHolography.pdf "application/pdf"
+404 http://www.alab.t.u-tokyo.ac.jp/%7Esiggraph/09/TouchableHolography/SIGGRAPH08_abst.pdf "application/pdf"
+405 http://www.alab.t.u-tokyo.ac.jp/%7Esiggraph/09/TouchableHolography/EuroHaptics08.pdf "application/pdf"
+406 http://www.siggraph.org/s2009 "Out of domain"
+407 http://www.youtube.com/v/Y-P1zZAcPuw%26hl%3Dja%26fs%3D1%26 "Out of domain"
+408 http://www.alab.t.u-tokyo.ac.jp/%7Eshinolab/projects/remote-compliance-measurement-for-haptic-broadcasting/ "error 500"
+409 http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber%3D5945459 "Out of domain"
+410 http://portal.acm.org/citation.cfm?id%3D1753326.1753673%26amp%3Bcoll%3DGUIDE%26amp%3Bdl%3DACM%26amp%3Btype%3Dseries%26amp%3Bidx%3DSERIES260%26amp%3Bpart%3Dseries%26amp%3BWantType%3DProceedings%26amp%3Btitle%3DCHI%26amp%3BCFID%3D84867604%26amp%3BCFTOKEN%3D83465872 "Out of domain"
+411 http://www.alab.t.u-tokyo.ac.jp/../../%7Etsuma/PDF/Nakatsuma_CHI2010.pdf "error 400"
+412 http://www.ieeexplore.ieee.org/xpls/abs_all.jsp?isnumber%3D4610837%26amp%3Barnumber%3D4610923%26amp%3Bcount%3D87%26amp%3Bindex%3D85 "Out of domain"
+413 http://www.alab.t.u-tokyo.ac.jp/../../%7Etsuma/PDF/Nakatsuma_INSS2008.pdf "error 400"
+414 http://www.alab.t.u-tokyo.ac.jp/../../%7Esiggraph/09/TouchableHolography/SIGGRAPH09-TH.html "error 400"
+415 http://www.alab.t.u-tokyo.ac.jp/../../%7Esiggraph/08/2DC/SIGGRAPH08-2DC.html "error 400"
+416 http://www.alab.t.u-tokyo.ac.jp/../../%7Etsuma/PDF/Nakatsuma_SIGGRAPH2008_2DC.pdf "error 400"
+417 http://www.alab.t.u-tokyo.ac.jp/../../%7Etsuma/PDF/Nakatsuma_SIGGRAPH2008_Localization_abst.pdf "error 400"
+418 http://www.alab.t.u-tokyo.ac.jp/../../%7Etsuma/PDF/Nakatsuma_SIGGRAPH2008_Localization_poster.pdf "error 400"
+419 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/author/tsuma/%22%22 "error 404"
+420 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/2011/06/30/siggraph-2011-emerging-technologies-demo/www.siggraph.org/s2011/ "error 404"
+421 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/2011/PDF/WHC2011HandOutWearable.pdf "error 404"
+422 http://www.youtube.com/watch?v%3DEJTBVzxQFSA "Out of domain"
+423 http://img.youtube.com/vi/EJTBVzxQFSA/0.jpg "Out of domain"
+424 http://img.youtube.com/vi/Y-P1zZAcPuw/0.jpg "Out of domain"
+425 http://www.alab.t.u-tokyo.ac.jp/../%7Etsuma/PDF/Nakatsuma_CHI2010.pdf "error 400"
+426 http://www.alab.t.u-tokyo.ac.jp/../%7Etsuma/PDF/Nakatsuma_INSS2008.pdf "error 400"
+427 http://www.alab.t.u-tokyo.ac.jp/../%7Esiggraph/09/TouchableHolography/SIGGRAPH09-TH.html "error 400"
+428 http://www.alab.t.u-tokyo.ac.jp/../%7Esiggraph/08/2DC/SIGGRAPH08-2DC.html "error 400"
+429 http://www.alab.t.u-tokyo.ac.jp/../%7Etsuma/PDF/Nakatsuma_SIGGRAPH2008_2DC.pdf "error 400"
+430 http://www.alab.t.u-tokyo.ac.jp/../%7Etsuma/PDF/Nakatsuma_SIGGRAPH2008_Localization_abst.pdf "error 400"
+431 http://www.alab.t.u-tokyo.ac.jp/../%7Etsuma/PDF/Nakatsuma_SIGGRAPH2008_Localization_poster.pdf "error 400"
+432 http://www.alab.t.u-tokyo.ac.jp/%7Etsuma/wordpress/wordpress/wp-login.php?action%3Dlostpassword "Kei Nakatsuma &rsaquo; Lost Password"
+1774
+0 1
+0 2
+0 3
+0 4
+0 5
+0 6
+0 7
+0 8
+0 8
+0 9
+0 10
+0 11
+0 12
+0 13
+0 14
+1 0
+1 15
+1 3
+1 4
+1 5
+1 16
+1 7
+1 8
+1 8
+1 17
+1 18
+1 19
+1 12
+1 19
+1 14
+2 9
+2 10
+2 20
+2 21
+2 22
+2 20
+2 23
+2 24
+2 25
+2 26
+3 0
+9 27
+10 10
+10 28
+10 29
+10 30
+10 31
+10 32
+10 33
+10 34
+10 35
+10 36
+10 37
+10 38
+10 39
+10 40
+10 41
+10 42
+10 43
+10 33
+10 44
+10 45
+10 46
+10 47
+10 48
+10 49
+11 50
+11 51
+11 52
+11 0
+11 53
+11 54
+11 55
+11 56
+11 57
+11 58
+11 59
+11 60
+11 61
+11 62
+11 63
+11 64
+11 65
+11 66
+11 67
+11 68
+11 69
+11 70
+11 71
+11 72
+11 73
+11 74
+11 75
+11 76
+11 77
+11 78
+11 79
+11 80
+11 81
+11 82
+11 83
+11 84
+11 85
+11 86
+11 87
+11 88
+11 89
+11 89
+11 90
+11 91
+11 92
+11 93
+11 27
+13 94
+15 17
+15 18
+17 27
+19 95
+21 96
+22 97
+22 98
+22 98
+22 99
+22 100
+22 101
+22 102
+22 103
+22 104
+22 105
+23 106
+23 107
+23 108
+23 109
+23 110
+23 111
+23 112
+23 113
+23 114
+23 115
+24 116
+24 117
+24 118
+24 119
+24 120
+24 121
+24 122
+24 123
+24 124
+24 125
+24 126
+24 127
+24 128
+24 129
+24 130
+24 131
+24 132
+24 133
+24 134
+24 135
+24 136
+24 137
+24 138
+24 139
+24 140
+24 141
+24 142
+24 143
+25 144
+25 145
+25 8
+25 51
+25 146
+25 0
+25 147
+25 148
+25 8
+25 8
+25 51
+25 146
+25 8
+25 51
+25 146
+25 149
+25 150
+25 151
+25 152
+25 153
+25 154
+25 155
+25 156
+25 157
+25 158
+25 159
+25 160
+25 161
+25 162
+25 163
+25 164
+25 165
+25 166
+25 167
+25 168
+26 169
+26 170
+26 171
+26 172
+26 173
+26 174
+28 10
+28 28
+28 29
+28 30
+28 31
+28 32
+28 33
+28 34
+28 28
+28 33
+28 44
+29 10
+29 28
+29 29
+29 30
+29 31
+29 32
+29 33
+29 34
+29 29
+29 29
+29 29
+29 29
+29 29
+29 29
+29 29
+29 29
+29 175
+29 176
+29 29
+29 29
+29 29
+29 29
+29 33
+29 44
+29 177
+29 178
+29 179
+29 180
+29 181
+29 182
+29 183
+29 184
+29 185
+30 10
+30 28
+30 29
+30 30
+30 31
+30 32
+30 33
+30 34
+30 30
+30 33
+30 44
+31 10
+31 28
+31 29
+31 30
+31 31
+31 32
+31 33
+31 34
+31 186
+31 31
+31 33
+31 44
+32 10
+32 28
+32 29
+32 30
+32 31
+32 32
+32 33
+32 34
+32 187
+32 188
+32 32
+32 33
+32 44
+33 10
+33 28
+33 29
+33 30
+33 31
+33 32
+33 33
+33 34
+33 33
+33 33
+33 44
+44 10
+44 28
+44 29
+44 30
+44 31
+44 32
+44 33
+44 44
+44 34
+44 189
+44 44
+44 44
+44 44
+44 44
+44 44
+44 44
+44 44
+44 44
+44 44
+44 44
+44 44
+44 44
+44 33
+44 44
+57 190
+57 191
+57 192
+57 193
+57 194
+57 195
+57 196
+57 197
+58 198
+58 199
+58 200
+58 201
+58 202
+59 203
+59 204
+59 205
+59 206
+59 207
+59 198
+60 11
+60 208
+60 209
+61 11
+61 210
+61 211
+61 209
+62 212
+62 213
+62 214
+62 215
+62 216
+62 198
+63 11
+63 217
+63 218
+63 219
+63 217
+63 217
+63 220
+63 221
+63 222
+63 223
+63 64
+63 224
+63 225
+64 11
+64 218
+64 219
+64 217
+64 217
+64 220
+64 220
+64 226
+64 224
+64 225
+65 11
+65 227
+65 227
+65 228
+65 229
+65 227
+65 230
+65 231
+65 232
+65 233
+65 228
+66 11
+66 234
+66 235
+66 236
+67 11
+67 237
+67 238
+67 239
+67 240
+67 241
+67 242
+67 242
+67 243
+67 240
+67 244
+68 11
+68 245
+68 246
+75 62
+75 198
+76 76
+76 76
+76 76
+76 76
+76 76
+76 76
+76 76
+76 76
+76 247
+76 248
+76 249
+76 250
+76 251
+76 252
+76 253
+76 254
+76 255
+76 256
+76 257
+76 258
+76 259
+76 260
+76 261
+76 262
+76 263
+76 264
+76 265
+76 198
+76 266
+76 267
+76 268
+76 269
+77 270
+77 271
+77 272
+77 273
+77 198
+78 274
+78 275
+78 276
+78 198
+78 274
+78 275
+78 277
+78 278
+79 11
+79 279
+79 280
+79 281
+79 209
+79 282
+80 11
+80 283
+80 284
+80 209
+80 285
+97 22
+97 98
+97 100
+97 101
+97 102
+97 103
+97 104
+97 105
+98 22
+98 97
+98 103
+98 104
+106 23
+106 286
+106 57
+106 287
+106 107
+106 108
+106 109
+106 110
+106 111
+106 112
+106 113
+106 114
+106 115
+106 288
+106 289
+116 290
+116 127
+116 291
+116 131
+116 132
+116 137
+116 138
+116 139
+116 140
+131 292
+131 293
+131 294
+131 295
+131 291
+131 296
+131 297
+131 298
+131 299
+131 300
+132 301
+132 302
+132 132
+132 303
+132 131
+132 304
+132 305
+132 294
+132 306
+132 307
+132 116
+132 308
+132 309
+132 310
+132 311
+132 116
+132 312
+132 313
+132 314
+132 315
+132 316
+144 25
+144 317
+144 318
+144 319
+144 150
+144 151
+144 152
+144 153
+144 168
+149 25
+149 320
+149 321
+149 322
+149 323
+149 324
+149 325
+149 326
+173 327
+173 328
+173 329
+290 116
+290 117
+290 118
+290 119
+290 120
+290 121
+290 122
+290 123
+290 124
+290 125
+290 126
+290 127
+290 128
+290 129
+290 130
+290 131
+290 132
+290 133
+290 134
+290 135
+290 136
+290 137
+290 138
+290 139
+290 140
+290 141
+290 142
+290 143
+292 330
+292 293
+301 301
+301 331
+301 332
+301 333
+301 332
+301 331
+301 16
+301 334
+301 318
+301 313
+301 314
+301 315
+302 301
+302 302
+302 132
+302 335
+302 336
+302 337
+302 338
+302 339
+302 309
+302 310
+302 340
+302 341
+302 312
+302 313
+302 314
+302 315
+302 342
+311 311
+311 343
+311 344
+311 345
+311 311
+311 346
+311 347
+311 348
+311 349
+311 20
+311 20
+311 20
+311 20
+311 350
+311 351
+311 349
+311 352
+311 353
+311 354
+311 352
+311 350
+311 355
+311 349
+311 356
+311 356
+311 357
+311 358
+311 349
+311 359
+311 360
+311 361
+311 361
+311 362
+311 357
+311 363
+311 349
+311 364
+311 365
+311 366
+311 365
+311 367
+311 367
+311 367
+311 357
+311 368
+311 349
+311 369
+311 370
+311 369
+311 357
+311 371
+311 349
+311 357
+311 372
+311 349
+311 370
+311 357
+311 373
+311 349
+311 373
+311 350
+311 374
+311 349
+311 375
+311 357
+311 348
+311 351
+311 355
+311 358
+311 363
+311 343
+311 376
+311 344
+311 377
+311 345
+311 378
+311 1
+311 379
+311 0
+311 379
+311 380
+311 381
+311 382
+311 383
+311 384
+311 385
+311 346
+311 347
+311 386
+311 387
+311 388
+319 144
+319 389
+319 390
+319 322
+319 323
+319 324
+319 325
+319 326
+320 149
+320 391
+321 149
+321 392
+321 393
+321 394
+321 395
+321 396
+321 397
+321 398
+331 301
+331 302
+331 132
+331 310
+331 302
+331 132
+331 399
+331 400
+331 16
+331 334
+331 318
+331 313
+331 314
+331 315
+332 301
+332 331
+332 401
+332 402
+332 403
+332 404
+332 405
+332 406
+332 333
+332 341
+332 311
+332 312
+332 313
+332 314
+332 315
+332 407
+341 25
+341 317
+341 318
+341 319
+341 150
+341 151
+341 152
+341 153
+341 168
+343 311
+343 343
+343 344
+343 345
+343 311
+343 346
+343 347
+343 343
+343 349
+343 16
+343 318
+343 312
+343 376
+343 348
+343 351
+343 355
+343 358
+343 363
+343 343
+343 376
+343 344
+343 377
+343 345
+343 378
+343 1
+343 379
+343 0
+343 379
+343 380
+343 381
+343 382
+343 383
+343 384
+343 385
+343 346
+343 347
+343 386
+343 387
+343 388
+344 311
+344 343
+344 344
+344 345
+344 311
+344 346
+344 347
+344 344
+344 349
+344 352
+344 361
+344 408
+344 377
+344 348
+344 351
+344 355
+344 358
+344 363
+344 343
+344 376
+344 344
+344 377
+344 345
+344 378
+344 1
+344 379
+344 0
+344 379
+344 380
+344 381
+344 382
+344 383
+344 384
+344 385
+344 346
+344 347
+344 386
+344 387
+344 388
+345 311
+345 343
+345 344
+345 345
+345 311
+345 346
+345 347
+345 345
+345 349
+345 408
+345 409
+345 410
+345 411
+345 352
+345 412
+345 413
+345 361
+345 361
+345 401
+345 414
+345 303
+345 415
+345 416
+345 417
+345 418
+345 378
+345 348
+345 351
+345 355
+345 358
+345 363
+345 343
+345 376
+345 344
+345 377
+345 345
+345 378
+345 1
+345 379
+345 0
+345 379
+345 380
+345 381
+345 382
+345 383
+345 384
+345 385
+345 346
+345 347
+345 386
+345 387
+345 388
+348 311
+348 343
+348 344
+348 345
+348 311
+348 346
+348 347
+348 351
+348 348
+348 349
+348 20
+348 20
+348 20
+348 20
+348 350
+348 348
+348 351
+348 355
+348 358
+348 363
+348 343
+348 376
+348 344
+348 377
+348 345
+348 378
+348 1
+348 379
+348 0
+348 379
+348 380
+348 381
+348 382
+348 383
+348 384
+348 385
+348 346
+348 347
+348 386
+348 387
+348 388
+349 311
+349 343
+349 344
+349 345
+349 311
+349 346
+349 347
+349 419
+349 348
+349 351
+349 355
+349 358
+349 363
+349 368
+349 371
+349 372
+349 373
+349 374
+349 348
+349 351
+349 355
+349 358
+349 363
+349 343
+349 376
+349 344
+349 377
+349 345
+349 378
+349 1
+349 379
+349 0
+349 379
+349 380
+349 381
+349 382
+349 383
+349 384
+349 385
+349 346
+349 347
+349 386
+349 387
+349 388
+350 311
+350 343
+350 344
+350 345
+350 311
+350 346
+350 347
+350 348
+350 350
+350 348
+350 351
+350 350
+350 351
+350 373
+350 350
+350 373
+350 348
+350 351
+350 355
+350 358
+350 363
+350 343
+350 376
+350 344
+350 377
+350 345
+350 378
+350 1
+350 379
+350 0
+350 379
+350 380
+350 381
+350 382
+350 383
+350 384
+350 385
+350 346
+350 347
+350 386
+350 387
+350 388
+351 311
+351 343
+351 344
+351 345
+351 311
+351 346
+351 347
+351 355
+351 348
+351 351
+351 349
+351 352
+351 353
+351 354
+351 352
+351 350
+351 348
+351 351
+351 355
+351 358
+351 363
+351 343
+351 376
+351 344
+351 377
+351 345
+351 378
+351 1
+351 379
+351 0
+351 379
+351 380
+351 381
+351 382
+351 383
+351 384
+351 385
+351 346
+351 347
+351 386
+351 387
+351 388
+355 311
+355 343
+355 344
+355 345
+355 311
+355 346
+355 347
+355 358
+355 351
+355 355
+355 349
+355 356
+355 356
+355 357
+355 348
+355 351
+355 355
+355 358
+355 363
+355 343
+355 376
+355 344
+355 377
+355 345
+355 378
+355 1
+355 379
+355 0
+355 379
+355 380
+355 381
+355 382
+355 383
+355 384
+355 385
+355 346
+355 347
+355 386
+355 387
+355 388
+357 311
+357 343
+357 344
+357 345
+357 311
+357 346
+357 347
+357 355
+357 357
+357 355
+357 358
+357 357
+357 358
+357 363
+357 357
+357 363
+357 368
+357 357
+357 368
+357 371
+357 357
+357 371
+357 372
+357 357
+357 372
+357 374
+357 357
+357 374
+357 348
+357 351
+357 355
+357 358
+357 363
+357 343
+357 376
+357 344
+357 377
+357 345
+357 378
+357 1
+357 379
+357 0
+357 379
+357 380
+357 381
+357 382
+357 383
+357 384
+357 385
+357 346
+357 347
+357 386
+357 387
+357 388
+358 311
+358 343
+358 344
+358 345
+358 311
+358 346
+358 347
+358 363
+358 355
+358 358
+358 349
+358 420
+358 360
+358 361
+358 361
+358 362
+358 357
+358 348
+358 351
+358 355
+358 358
+358 363
+358 343
+358 376
+358 344
+358 377
+358 345
+358 378
+358 1
+358 379
+358 0
+358 379
+358 380
+358 381
+358 382
+358 383
+358 384
+358 385
+358 346
+358 347
+358 386
+358 387
+358 388
+363 311
+363 343
+363 344
+363 345
+363 311
+363 346
+363 347
+363 368
+363 358
+363 363
+363 349
+363 364
+363 365
+363 421
+363 365
+363 367
+363 367
+363 367
+363 357
+363 348
+363 351
+363 355
+363 358
+363 363
+363 343
+363 376
+363 344
+363 377
+363 345
+363 378
+363 1
+363 379
+363 0
+363 379
+363 380
+363 381
+363 382
+363 383
+363 384
+363 385
+363 346
+363 347
+363 386
+363 387
+363 388
+368 311
+368 343
+368 344
+368 345
+368 311
+368 346
+368 347
+368 371
+368 363
+368 368
+368 349
+368 369
+368 370
+368 369
+368 357
+368 348
+368 351
+368 355
+368 358
+368 363
+368 343
+368 376
+368 344
+368 377
+368 345
+368 378
+368 1
+368 379
+368 0
+368 379
+368 380
+368 381
+368 382
+368 383
+368 384
+368 385
+368 346
+368 347
+368 386
+368 387
+368 388
+371 311
+371 343
+371 344
+371 345
+371 311
+371 346
+371 347
+371 372
+371 368
+371 371
+371 349
+371 357
+371 348
+371 351
+371 355
+371 358
+371 363
+371 343
+371 376
+371 344
+371 377
+371 345
+371 378
+371 1
+371 379
+371 0
+371 379
+371 380
+371 381
+371 382
+371 383
+371 384
+371 385
+371 346
+371 347
+371 386
+371 387
+371 388
+372 311
+372 343
+372 344
+372 345
+372 311
+372 346
+372 347
+372 373
+372 371
+372 372
+372 349
+372 370
+372 357
+372 348
+372 351
+372 355
+372 358
+372 363
+372 343
+372 376
+372 344
+372 377
+372 345
+372 378
+372 1
+372 379
+372 0
+372 379
+372 380
+372 381
+372 382
+372 383
+372 384
+372 385
+372 346
+372 347
+372 386
+372 387
+372 388
+373 311
+373 343
+373 344
+373 345
+373 311
+373 346
+373 347
+373 374
+373 372
+373 373
+373 349
+373 422
+373 401
+373 350
+373 348
+373 351
+373 355
+373 358
+373 363
+373 343
+373 376
+373 344
+373 377
+373 345
+373 378
+373 1
+373 379
+373 0
+373 379
+373 380
+373 381
+373 382
+373 383
+373 384
+373 385
+373 346
+373 347
+373 386
+373 387
+373 388
+373 423
+373 424
+374 311
+374 343
+374 344
+374 345
+374 311
+374 346
+374 347
+374 373
+374 374
+374 349
+374 375
+374 357
+374 348
+374 351
+374 355
+374 358
+374 363
+374 343
+374 376
+374 344
+374 377
+374 345
+374 378
+374 1
+374 379
+374 0
+374 379
+374 380
+374 381
+374 382
+374 383
+374 384
+374 385
+374 346
+374 347
+374 386
+374 387
+374 388
+376 311
+376 343
+376 344
+376 345
+376 311
+376 346
+376 347
+376 376
+376 349
+376 348
+376 351
+376 355
+376 358
+376 363
+376 343
+376 376
+376 344
+376 377
+376 345
+376 378
+376 1
+376 379
+376 0
+376 379
+376 380
+376 381
+376 382
+376 383
+376 384
+376 385
+376 346
+376 347
+376 386
+376 387
+376 388
+377 311
+377 343
+377 344
+377 345
+377 311
+377 346
+377 347
+377 377
+377 349
+377 352
+377 361
+377 408
+377 348
+377 351
+377 355
+377 358
+377 363
+377 343
+377 376
+377 344
+377 377
+377 345
+377 378
+377 1
+377 379
+377 0
+377 379
+377 380
+377 381
+377 382
+377 383
+377 384
+377 385
+377 346
+377 347
+377 386
+377 387
+377 388
+378 311
+378 343
+378 344
+378 345
+378 311
+378 346
+378 347
+378 378
+378 349
+378 408
+378 409
+378 410
+378 425
+378 352
+378 412
+378 426
+378 361
+378 361
+378 401
+378 427
+378 303
+378 428
+378 429
+378 430
+378 431
+378 348
+378 351
+378 355
+378 358
+378 363
+378 343
+378 376
+378 344
+378 377
+378 345
+378 378
+378 1
+378 379
+378 0
+378 379
+378 380
+378 381
+378 382
+378 383
+378 384
+378 385
+378 346
+378 347
+378 386
+378 387
+378 388
+379 14
+380 311
+380 343
+380 344
+380 345
+380 311
+380 346
+380 347
+380 348
+380 350
+380 348
+380 348
+380 351
+380 355
+380 358
+380 363
+380 343
+380 376
+380 344
+380 377
+380 345
+380 378
+380 1
+380 379
+380 0
+380 379
+380 380
+380 381
+380 382
+380 383
+380 384
+380 385
+380 346
+380 347
+380 386
+380 387
+380 388
+381 311
+381 343
+381 344
+381 345
+381 311
+381 346
+381 347
+381 351
+381 350
+381 351
+381 348
+381 351
+381 355
+381 358
+381 363
+381 343
+381 376
+381 344
+381 377
+381 345
+381 378
+381 1
+381 379
+381 0
+381 379
+381 380
+381 381
+381 382
+381 383
+381 384
+381 385
+381 346
+381 347
+381 386
+381 387
+381 388
+382 311
+382 343
+382 344
+382 345
+382 311
+382 346
+382 347
+382 355
+382 357
+382 355
+382 348
+382 351
+382 355
+382 358
+382 363
+382 343
+382 376
+382 344
+382 377
+382 345
+382 378
+382 1
+382 379
+382 0
+382 379
+382 380
+382 381
+382 382
+382 383
+382 384
+382 385
+382 346
+382 347
+382 386
+382 387
+382 388
+383 311
+383 343
+383 344
+383 345
+383 311
+383 346
+383 347
+383 358
+383 357
+383 358
+383 363
+383 357
+383 363
+383 368
+383 357
+383 368
+383 348
+383 351
+383 355
+383 358
+383 363
+383 343
+383 376
+383 344
+383 377
+383 345
+383 378
+383 1
+383 379
+383 0
+383 379
+383 380
+383 381
+383 382
+383 383
+383 384
+383 385
+383 346
+383 347
+383 386
+383 387
+383 388
+384 311
+384 343
+384 344
+384 345
+384 311
+384 346
+384 347
+384 371
+384 357
+384 371
+384 372
+384 357
+384 372
+384 373
+384 350
+384 373
+384 374
+384 357
+384 374
+384 348
+384 351
+384 355
+384 358
+384 363
+384 343
+384 376
+384 344
+384 377
+384 345
+384 378
+384 1
+384 379
+384 0
+384 379
+384 380
+384 381
+384 382
+384 383
+384 384
+384 385
+384 346
+384 347
+384 386
+384 387
+384 388
+385 386
+385 432
+385 311
+389 319
+389 391
+390 319
+390 392
+390 393
+390 394
+390 395
+390 396
+390 397
+390 398
+432 386
+432 385
+432 311
