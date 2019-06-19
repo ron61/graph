@@ -1,4 +1,5 @@
-\documentclass[11pt,a4paper]{jsarticle}
+%\documentclass[twocolumn,10pt]{jarticle} 
+\documentclass[10pt]{jarticle} 
 %
 \usepackage{listings,jlisting}
 \usepackage{amsmath,amssymb}
@@ -47,12 +48,89 @@
 \maketitle
 
 \section{概要}
-計数工学科システム情報工学コースの8この研究室を対象に，全てのページに対するページランクを
+研究室のホームページの役割には様々なものがある．
+その中でも重要なものが，これから研究室を決める学生や，
+共同研究先を探している企業の人などが見る場合である．
+そのような人たちが求めているものは，
+研究室がどのような研究をしていて，どんな人が所属しているかなどの
+基本的な情報を素早くわかりやすい形で入手することである．
+
+これを鑑みると，この目的における「より良い」ウェブサイトとは，
+余分な情報はあまり含まず，重要な情報がアクセスしやすいサイトである
+ということができる．
+
+今回のレポートでは，
+計数工学科システム情報工学コースの8個の研究室を比較し，
+どの研究室のウェブサイトがより理想的な形になっているかを考察した．
 
 \section{解析手法}
+各研究室の全てのページに関してそれぞれのサイト内でのページランクを算出した．
+その後，それをヒストグラムとして可視化し，それぞれのサイトの
+特徴を考察した．ページランク算出の際のダンピング係数は0.85とした．
 
 \section{結果}
+ページランクを各研究室のウェブサイトの全てのページについて算出した結果，
+次の図1から図8までのヒストグラムのようになった．
+
+\begin{figure}[H]
+  \begin{center}
+  \includegraphics[width=10cm]{../histograms/i1.png}
+  \caption{第1研究室のページランクの分布}
+  \end{center}
+\end{figure}
+
+\begin{figure}[H]
+  \begin{center}
+  \includegraphics[width=10cm]{../histograms/i2.png}
+  \caption{第2研究室のページランクの分布}
+  \end{center}
+\end{figure}
+
+\begin{figure}[H]
+  \begin{center}
+  \includegraphics[width=10cm]{../histograms/i3.png}
+  \caption{第3研究室のページランクの分布}
+  \end{center}
+\end{figure}
+
+\begin{figure}[H]
+  \begin{center}
+  \includegraphics[width=10cm]{../histograms/i4.png}
+  \caption{第4研究室のページランクの分布}
+  \end{center}
+\end{figure}
+
+\begin{figure}[H]
+  \begin{center}
+  \includegraphics[width=10cm]{../histograms/i5.png}
+  \caption{第5研究室のページランクの分布}
+  \end{center}
+\end{figure}
+
+\begin{figure}[H]
+  \begin{center}
+  \includegraphics[width=10cm]{../histograms/i6.png}
+  \caption{第6研究室のページランクの分布}
+  \end{center}
+\end{figure}
+
+\begin{figure}[H]
+  \begin{center}
+  \includegraphics[width=10cm]{../histograms/i7.png}
+  \caption{第7研究室のページランクの分布}
+  \end{center}
+\end{figure}
+
+\begin{figure}[H]
+  \begin{center}
+  \includegraphics[width=10cm]{../histograms/ia.png}
+  \caption{先端研生田研究室のページランクの分布}
+  \end{center}
+\end{figure}
 
 \section{考察}
+
+ヒストグラムを全体としてみると，まずわかることとして
+
 
 \end{document}
