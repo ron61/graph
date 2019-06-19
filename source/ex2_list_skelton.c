@@ -134,7 +134,6 @@ void _dfs2(Graph *g, int *flag, int v, int *component, int c)
     if (flag[j] != 1){
       _dfs2(g, flag, j, component, c);
     }
-    // printf("%d->%d;",e->from,e->to);
     e = e->next;            // 辺リスト中の次の辺へ
   }
 }
@@ -250,18 +249,18 @@ int main(int argc, char *argv[])
     int j;
     scc(g, component);
     
-    printf("digraph{\n");
+    //printf("digraph{\n");
     for(i = 0; i < g->n; i++) {
-      printf("%d [label=\"%d\"]\n", i, component[i]);
+      // printf("%d [label=\"%d\"]\n", i, component[i]);
     }
     for(i = 0; i < g->n; i++) {
       Edge *e = g->edges[i];    // 頂点 i の辺リストの先頭取得
       while(e!=NULL) {          // 辺リストの終了まで
-        printf("%d -> %d\n", e->from, e->to);
+        //printf("%d -> %d\n", e->from, e->to);
         e = e->next;            // 辺リスト中の次の辺へ
       }
     }
-    printf("}\n");
+    //printf("}\n");
   }
   // PageRank
   {
@@ -269,7 +268,7 @@ int main(int argc, char *argv[])
     pagerank(g, rank);
     
     for(i = 0; i < g->n; i++) {
-      printf("// rank of %d is %g\n", i, rank[i]);
+      printf("%g\n",rank[i]);
     }
   }
   return 0;
