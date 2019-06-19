@@ -1,3 +1,9 @@
+// Example Usage
+//
+// gcc ex2_list_skelton.c -O3
+// ./a.out < samplegraph.txt > samplegraph.dot
+// dot -Tpng < samplegraph.dot > samplegraph.png
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
